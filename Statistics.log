@@ -1,0 +1,731 @@
+Path: d:\Work\STF_Testing\Inter\XMLs
+
+ Path where .xml's found:
+d:\Work\STF_Testing\Inter\XMLs
+Generating statistics for AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AndorraTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 10, altadmin_nr 3, city_nr 7, citypart_nr 39, areacode_nr 48, street_nr 974 
+empty_citypart_nr 8, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AndorraTSD\VDE\AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 10, altadmin_nr 3, city_nr 7, citypart_nr 39, areacode_nr 48, street_nr 974 
+empty_citypart_nr 8, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AndorraTSD\VDE_SPELL\AndorraTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 10, altadmin_nr 3, city_nr 7, citypart_nr 39, areacode_nr 48, street_nr 974 
+empty_citypart_nr 8, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AustriaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1083, city_nr 2101, citypart_nr 12056, areacode_nr 19540, street_nr 187206 
+empty_citypart_nr 239, empty_city_nr 0, empty_areacode_nr 63, empty_altadmin_nr 0 
+
+Generating statistics for AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AustriaTSD\VDE\AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1083, city_nr 2101, citypart_nr 12056, areacode_nr 19540, street_nr 187206 
+empty_citypart_nr 239, empty_city_nr 0, empty_areacode_nr 63, empty_altadmin_nr 0 
+
+Generating statistics for AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\AustriaTSD\VDE_SPELL\AustriaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1083, city_nr 2101, citypart_nr 12056, areacode_nr 19540, street_nr 187206 
+empty_citypart_nr 239, empty_city_nr 0, empty_areacode_nr 63, empty_altadmin_nr 0 
+
+Generating statistics for BelgiumTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\BelgiumTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\BelgiumTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 216, city_nr 571, citypart_nr 3465, areacode_nr 5314, street_nr 198054 
+empty_citypart_nr 15, empty_city_nr 0, empty_areacode_nr 7, empty_altadmin_nr 0 
+
+Generating statistics for BelgiumTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\BelgiumTSD\VDE_SPELL\BelgiumTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 216, city_nr 571, citypart_nr 3465, areacode_nr 5314, street_nr 198054 
+empty_citypart_nr 15, empty_city_nr 0, empty_areacode_nr 7, empty_altadmin_nr 0 
+
+Generating statistics for BulgariaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\BulgariaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\BulgariaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 28, altadmin_nr 564, city_nr 264, citypart_nr 4243, areacode_nr 6207, street_nr 38553 
+empty_citypart_nr 28, empty_city_nr 0, empty_areacode_nr 3845, empty_altadmin_nr 0 
+
+Generating statistics for BulgariaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\BulgariaTSD\VDE_SPELL\BulgariaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 28, altadmin_nr 564, city_nr 264, citypart_nr 4243, areacode_nr 6207, street_nr 38553 
+empty_citypart_nr 28, empty_city_nr 0, empty_areacode_nr 3845, empty_altadmin_nr 0 
+
+Generating statistics for CroatiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\CroatiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\CroatiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 21, altadmin_nr 54, city_nr 556, citypart_nr 7263, areacode_nr 9013, street_nr 52277 
+empty_citypart_nr 39, empty_city_nr 0, empty_areacode_nr 2074, empty_altadmin_nr 0 
+
+Generating statistics for CroatiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\CroatiaTSD\VDE_SPELL\CroatiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 21, altadmin_nr 54, city_nr 556, citypart_nr 7263, areacode_nr 9013, street_nr 52277 
+empty_citypart_nr 39, empty_city_nr 0, empty_areacode_nr 2074, empty_altadmin_nr 0 
+
+Generating statistics for DenmarkTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\DenmarkTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\DenmarkTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1644, city_nr 493, citypart_nr 9037, areacode_nr 14404, street_nr 152033 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 87, empty_altadmin_nr 0 
+
+Generating statistics for DenmarkTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\DenmarkTSD\VDE_SPELL\DenmarkTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1644, city_nr 493, citypart_nr 9037, areacode_nr 14404, street_nr 152033 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 87, empty_altadmin_nr 0 
+
+Generating statistics for EstoniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\EstoniaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\EstoniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 15, altadmin_nr 198, city_nr 216, citypart_nr 4535, areacode_nr 6964, street_nr 21245 
+empty_citypart_nr 8, empty_city_nr 0, empty_areacode_nr 3586, empty_altadmin_nr 0 
+
+Generating statistics for EstoniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\EstoniaTSD\VDE_SPELL\EstoniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 15, altadmin_nr 198, city_nr 216, citypart_nr 4535, areacode_nr 6964, street_nr 21245 
+empty_citypart_nr 8, empty_city_nr 0, empty_areacode_nr 3586, empty_altadmin_nr 0 
+
+Generating statistics for FinlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\FinlandTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\FinlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 10543, city_nr 316, citypart_nr 121964, areacode_nr 30787, street_nr 293651 
+empty_citypart_nr 116203, empty_city_nr 0, empty_areacode_nr 95, empty_altadmin_nr 0 
+
+Generating statistics for FinlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\FinlandTSD\VDE_SPELL\FinlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 10543, city_nr 316, citypart_nr 121964, areacode_nr 30787, street_nr 293651 
+empty_citypart_nr 116203, empty_city_nr 0, empty_areacode_nr 95, empty_altadmin_nr 0 
+
+Generating statistics for FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\FranceTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 22, altadmin_nr 0, city_nr 36479, citypart_nr 57304, areacode_nr 131882, street_nr 1830280 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 28325, empty_altadmin_nr 0 
+
+Generating statistics for FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\FranceTSD\VDE\FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 22, altadmin_nr 0, city_nr 36479, citypart_nr 57304, areacode_nr 131882, street_nr 1830280 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 28325, empty_altadmin_nr 0 
+
+Generating statistics for FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\FranceTSD\VDE_SPELL\FranceTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 22, altadmin_nr 0, city_nr 36479, citypart_nr 57304, areacode_nr 131882, street_nr 1830280 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 28325, empty_altadmin_nr 0 
+
+Generating statistics for GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GermanyTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 1098, city_nr 11164, citypart_nr 79166, areacode_nr 107817, street_nr 1805028 
+empty_citypart_nr 4592, empty_city_nr 0, empty_areacode_nr 976, empty_altadmin_nr 0 
+
+Generating statistics for GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GermanyTSD\VDE\GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 1098, city_nr 11164, citypart_nr 79166, areacode_nr 107817, street_nr 1805028 
+empty_citypart_nr 4592, empty_city_nr 0, empty_areacode_nr 976, empty_altadmin_nr 0 
+
+Generating statistics for GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GermanyTSD\VDE_SPELL\GermanyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 1098, city_nr 11164, citypart_nr 79166, areacode_nr 107817, street_nr 1805028 
+empty_citypart_nr 4592, empty_city_nr 0, empty_areacode_nr 976, empty_altadmin_nr 0 
+
+Generating statistics for GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GibraltarTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 2, areacode_nr 4, street_nr 174 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GibraltarTSD\VDE\GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 2, areacode_nr 4, street_nr 174 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GibraltarTSD\VDE_SPELL\GibraltarTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 2, areacode_nr 4, street_nr 174 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GreatBritainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1174, city_nr 1507, citypart_nr 32445, areacode_nr 62186, street_nr 1227500 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 6579, empty_altadmin_nr 0 
+
+Generating statistics for GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GreatBritainTSD\VDE\GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1174, city_nr 1507, citypart_nr 32445, areacode_nr 62186, street_nr 1227500 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 6579, empty_altadmin_nr 0 
+
+Generating statistics for GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GreatBritainTSD\VDE_SPELL\GreatBritainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 9, altadmin_nr 1174, city_nr 1507, citypart_nr 32445, areacode_nr 62186, street_nr 1227500 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 6579, empty_altadmin_nr 0 
+
+Generating statistics for GreeceTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GreeceTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\GreeceTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 14, altadmin_nr 1186, city_nr 326, citypart_nr 12042, areacode_nr 36931, street_nr 163293 
+empty_citypart_nr 46, empty_city_nr 0, empty_areacode_nr 8930, empty_altadmin_nr 0 
+
+Generating statistics for GreeceTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\GreeceTSD\VDE_SPELL\GreeceTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 14, altadmin_nr 1186, city_nr 326, citypart_nr 12042, areacode_nr 36931, street_nr 163293 
+empty_citypart_nr 46, empty_city_nr 0, empty_areacode_nr 8930, empty_altadmin_nr 0 
+
+Generating statistics for HungaryTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\HungaryTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\HungaryTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 400, city_nr 3155, citypart_nr 2137, areacode_nr 9798, street_nr 139131 
+empty_citypart_nr 633, empty_city_nr 0, empty_areacode_nr 803, empty_altadmin_nr 0 
+
+Generating statistics for HungaryTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\HungaryTSD\VDE_SPELL\HungaryTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 400, city_nr 3155, citypart_nr 2137, areacode_nr 9798, street_nr 139131 
+empty_citypart_nr 633, empty_city_nr 0, empty_areacode_nr 803, empty_altadmin_nr 0 
+
+Generating statistics for IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\IrelandTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 386, city_nr 1904, citypart_nr 50713, areacode_nr 59185, street_nr 204546 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 38015, empty_altadmin_nr 0 
+
+Generating statistics for IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\IrelandTSD\VDE\IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 386, city_nr 1904, citypart_nr 50713, areacode_nr 59185, street_nr 204546 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 38015, empty_altadmin_nr 0 
+
+Generating statistics for IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\IrelandTSD\VDE_SPELL\IrelandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 386, city_nr 1904, citypart_nr 50713, areacode_nr 59185, street_nr 204546 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 38015, empty_altadmin_nr 0 
+
+Generating statistics for ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\ItalyTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 0, city_nr 8048, citypart_nr 29185, areacode_nr 48012, street_nr 1121241 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1944, empty_altadmin_nr 0 
+
+Generating statistics for ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\ItalyTSD\VDE\ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 0, city_nr 8048, citypart_nr 29185, areacode_nr 48012, street_nr 1121241 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1944, empty_altadmin_nr 0 
+
+Generating statistics for ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\ItalyTSD\VDE_SPELL\ItalyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 0, city_nr 8048, citypart_nr 29185, areacode_nr 48012, street_nr 1121241 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1944, empty_altadmin_nr 0 
+
+Generating statistics for LatviaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LatviaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\LatviaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 119, altadmin_nr 32, city_nr 588, citypart_nr 4743, areacode_nr 2262, street_nr 19706 
+empty_citypart_nr 3886, empty_city_nr 0, empty_areacode_nr 863, empty_altadmin_nr 0 
+
+Generating statistics for LatviaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LatviaTSD\VDE_SPELL\LatviaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 119, altadmin_nr 32, city_nr 588, citypart_nr 4743, areacode_nr 2262, street_nr 19706 
+empty_citypart_nr 3886, empty_city_nr 0, empty_areacode_nr 863, empty_altadmin_nr 0 
+
+Generating statistics for LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LiechtensteinTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 2, altadmin_nr 3, city_nr 11, citypart_nr 14, areacode_nr 47, street_nr 1285 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LiechtensteinTSD\VDE\LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 2, altadmin_nr 3, city_nr 11, citypart_nr 14, areacode_nr 47, street_nr 1285 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LiechtensteinTSD\VDE_SPELL\LiechtensteinTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 2, altadmin_nr 3, city_nr 11, citypart_nr 14, areacode_nr 47, street_nr 1285 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for LithuaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LithuaniaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\LithuaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 10, altadmin_nr 4130, city_nr 60, citypart_nr 10815, areacode_nr 136771, street_nr 57966 
+empty_citypart_nr 9097, empty_city_nr 0, empty_areacode_nr 1374, empty_altadmin_nr 0 
+
+Generating statistics for LithuaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LithuaniaTSD\VDE_SPELL\LithuaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 10, altadmin_nr 4130, city_nr 60, citypart_nr 10815, areacode_nr 136771, street_nr 57966 
+empty_citypart_nr 9097, empty_city_nr 0, empty_areacode_nr 1374, empty_altadmin_nr 0 
+
+Generating statistics for LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LuxembourgTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 57, city_nr 105, citypart_nr 561, areacode_nr 30451, street_nr 11155 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 273, empty_altadmin_nr 0 
+
+Generating statistics for LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LuxembourgTSD\VDE\LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 57, city_nr 105, citypart_nr 561, areacode_nr 30451, street_nr 11155 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 273, empty_altadmin_nr 0 
+
+Generating statistics for LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\LuxembourgTSD\VDE_SPELL\LuxembourgTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 57, city_nr 105, citypart_nr 561, areacode_nr 30451, street_nr 11155 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 273, empty_altadmin_nr 0 
+
+Generating statistics for MaltaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\MaltaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\MaltaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 91, altadmin_nr 23, city_nr 68, citypart_nr 57, areacode_nr 265, street_nr 8776 
+empty_citypart_nr 10, empty_city_nr 0, empty_areacode_nr 5, empty_altadmin_nr 0 
+
+Generating statistics for MaltaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\MaltaTSD\VDE_SPELL\MaltaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 91, altadmin_nr 23, city_nr 68, citypart_nr 57, areacode_nr 265, street_nr 8776 
+empty_citypart_nr 10, empty_city_nr 0, empty_areacode_nr 5, empty_altadmin_nr 0 
+
+Generating statistics for MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\MonacoTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 2, city_nr 1, citypart_nr 1, areacode_nr 5, street_nr 223 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\MonacoTSD\VDE\MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 2, city_nr 1, citypart_nr 1, areacode_nr 5, street_nr 223 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\MonacoTSD\VDE_SPELL\MonacoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 3, altadmin_nr 2, city_nr 1, citypart_nr 1, areacode_nr 5, street_nr 223 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\NetherlandsTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 12, altadmin_nr 1214, city_nr 393, citypart_nr 2832, areacode_nr 14319, street_nr 293988 
+empty_citypart_nr 105, empty_city_nr 0, empty_areacode_nr 11, empty_altadmin_nr 0 
+
+Generating statistics for NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\NetherlandsTSD\VDE\NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 12, altadmin_nr 1214, city_nr 393, citypart_nr 2832, areacode_nr 14319, street_nr 293988 
+empty_citypart_nr 105, empty_city_nr 0, empty_areacode_nr 11, empty_altadmin_nr 0 
+
+Generating statistics for NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\NetherlandsTSD\VDE_SPELL\NetherlandsTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 12, altadmin_nr 1214, city_nr 393, citypart_nr 2832, areacode_nr 14319, street_nr 293988 
+empty_citypart_nr 105, empty_city_nr 0, empty_areacode_nr 11, empty_altadmin_nr 0 
+
+Generating statistics for NorwayTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\NorwayTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\NorwayTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 8003, city_nr 430, citypart_nr 76136, areacode_nr 62715, street_nr 103939 
+empty_citypart_nr 73457, empty_city_nr 0, empty_areacode_nr 965, empty_altadmin_nr 0 
+
+Generating statistics for NorwayTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\NorwayTSD\VDE_SPELL\NorwayTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 20, altadmin_nr 8003, city_nr 430, citypart_nr 76136, areacode_nr 62715, street_nr 103939 
+empty_citypart_nr 73457, empty_city_nr 0, empty_areacode_nr 965, empty_altadmin_nr 0 
+
+Generating statistics for PolandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\PolandTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\PolandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 844, city_nr 3088, citypart_nr 59867, areacode_nr 104622, street_nr 274757 
+empty_citypart_nr 20253, empty_city_nr 0, empty_areacode_nr 33972, empty_altadmin_nr 0 
+
+Generating statistics for PolandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\PolandTSD\VDE_SPELL\PolandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 844, city_nr 3088, citypart_nr 59867, areacode_nr 104622, street_nr 274757 
+empty_citypart_nr 20253, empty_city_nr 0, empty_areacode_nr 33972, empty_altadmin_nr 0 
+
+Generating statistics for PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\PortugalTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 29, altadmin_nr 3847, city_nr 308, citypart_nr 14616, areacode_nr 26069, street_nr 389760 
+empty_citypart_nr 181, empty_city_nr 0, empty_areacode_nr 3063, empty_altadmin_nr 0 
+
+Generating statistics for PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\PortugalTSD\VDE\PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 29, altadmin_nr 3847, city_nr 308, citypart_nr 14616, areacode_nr 26069, street_nr 389760 
+empty_citypart_nr 181, empty_city_nr 0, empty_areacode_nr 3063, empty_altadmin_nr 0 
+
+Generating statistics for PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\PortugalTSD\VDE_SPELL\PortugalTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 29, altadmin_nr 3847, city_nr 308, citypart_nr 14616, areacode_nr 26069, street_nr 389760 
+empty_citypart_nr 181, empty_city_nr 0, empty_areacode_nr 3063, empty_altadmin_nr 0 
+
+Generating statistics for RomaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\RomaniaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RomaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 42, altadmin_nr 35, city_nr 3161, citypart_nr 11282, areacode_nr 46707, street_nr 77402 
+empty_citypart_nr 4180, empty_city_nr 0, empty_areacode_nr 11696, empty_altadmin_nr 0 
+
+Generating statistics for RomaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\RomaniaTSD\VDE_SPELL\RomaniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 42, altadmin_nr 35, city_nr 3161, citypart_nr 11282, areacode_nr 46707, street_nr 77402 
+empty_citypart_nr 4180, empty_city_nr 0, empty_areacode_nr 11696, empty_altadmin_nr 0 
+
+Generating statistics for SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SanMarinoTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 7, city_nr 9, citypart_nr 5, areacode_nr 37, street_nr 1221 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SanMarinoTSD\VDE\SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 7, city_nr 9, citypart_nr 5, areacode_nr 37, street_nr 1221 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SanMarinoTSD\VDE_SPELL\SanMarinoTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 16, altadmin_nr 7, city_nr 9, citypart_nr 5, areacode_nr 37, street_nr 1221 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for SlovakiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SlovakiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SlovakiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 488, city_nr 2890, citypart_nr 2294, areacode_nr 9417, street_nr 33284 
+empty_citypart_nr 77, empty_city_nr 0, empty_areacode_nr 5887, empty_altadmin_nr 0 
+
+Generating statistics for SlovakiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SlovakiaTSD\VDE_SPELL\SlovakiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 488, city_nr 2890, citypart_nr 2294, areacode_nr 9417, street_nr 33284 
+empty_citypart_nr 77, empty_city_nr 0, empty_areacode_nr 5887, empty_altadmin_nr 0 
+
+Generating statistics for SloveniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SloveniaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SloveniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 216, altadmin_nr 4, city_nr 212, citypart_nr 5801, areacode_nr 6814, street_nr 25989 
+empty_citypart_nr 58, empty_city_nr 0, empty_areacode_nr 34, empty_altadmin_nr 0 
+
+Generating statistics for SloveniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SloveniaTSD\VDE_SPELL\SloveniaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 216, altadmin_nr 4, city_nr 212, citypart_nr 5801, areacode_nr 6814, street_nr 25989 
+empty_citypart_nr 58, empty_city_nr 0, empty_areacode_nr 34, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SpainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SpainTSD\VDE\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SpainTSD\VDE_SPELL\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SwedenTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SwedenTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SwedenTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 6147, altadmin_nr 5904, city_nr 243, citypart_nr 5680, areacode_nr 147685, street_nr 401549 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 5940, empty_altadmin_nr 0 
+
+Generating statistics for SwedenTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SwedenTSD\VDE_SPELL\SwedenTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 6147, altadmin_nr 5904, city_nr 243, citypart_nr 5680, areacode_nr 147685, street_nr 401549 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 5940, empty_altadmin_nr 0 
+
+Generating statistics for SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SwitzerlandTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 987, city_nr 2298, citypart_nr 6587, areacode_nr 15787, street_nr 210039 
+empty_citypart_nr 305, empty_city_nr 0, empty_areacode_nr 467, empty_altadmin_nr 0 
+
+Generating statistics for SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SwitzerlandTSD\VDE\SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 987, city_nr 2298, citypart_nr 6587, areacode_nr 15787, street_nr 210039 
+empty_citypart_nr 305, empty_city_nr 0, empty_areacode_nr 467, empty_altadmin_nr 0 
+
+Generating statistics for SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\SwitzerlandTSD\VDE_SPELL\SwitzerlandTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 26, altadmin_nr 987, city_nr 2298, citypart_nr 6587, areacode_nr 15787, street_nr 210039 
+empty_citypart_nr 305, empty_city_nr 0, empty_areacode_nr 467, empty_altadmin_nr 0 
+
+Generating statistics for TurkeyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\TurkeyTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\TurkeyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 198, altadmin_nr 117, city_nr 81, citypart_nr 28042, areacode_nr 57129, street_nr 984508 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 33263, empty_altadmin_nr 0 
+
+Generating statistics for TurkeyTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\TurkeyTSD\VDE_SPELL\TurkeyTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 198, altadmin_nr 117, city_nr 81, citypart_nr 28042, areacode_nr 57129, street_nr 984508 
+empty_citypart_nr 0, empty_city_nr 0, empty_areacode_nr 33263, empty_altadmin_nr 0 
+
+Generating statistics for VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\VaticanCityTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 1, areacode_nr 2, street_nr 18 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\VaticanCityTSD\VDE\VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 1, areacode_nr 2, street_nr 18 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3785\Europe\VaticanCityTSD\VDE_SPELL\VaticanCityTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 1, altadmin_nr 0, city_nr 1, citypart_nr 1, areacode_nr 2, street_nr 18 
+empty_citypart_nr 1, empty_city_nr 0, empty_areacode_nr 1, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3807\Europe\SpainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3807\Europe\SpainTSD\VDE\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3807\Europe\SpainTSD\VDE_SPELL\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3817\Europe\SpainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3817\Europe\SpainTSD\VDE\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_3817\Europe\SpainTSD\VDE_SPELL\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63660, street_nr 1135163 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11173, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_4095\Europe\SpainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 4979, city_nr 8120, citypart_nr 53257, areacode_nr 63649, street_nr 1133940 
+empty_citypart_nr 25746, empty_city_nr 0, empty_areacode_nr 11197, empty_altadmin_nr 0 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_4104\Europe\SpainTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 2990, city_nr 8104, citypart_nr 38242, areacode_nr 58980, street_nr 1131737 
+empty_citypart_nr 11210, empty_city_nr 0, empty_areacode_nr 10871, empty_altadmin_nr 74 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_4104\Europe\SpainTSD\VDE\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 2990, city_nr 8104, citypart_nr 38242, areacode_nr 58980, street_nr 1131737 
+empty_citypart_nr 11210, empty_city_nr 0, empty_areacode_nr 10871, empty_altadmin_nr 74 
+
+Generating statistics for SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Europe_2016_03_4104\Europe\SpainTSD\VDE_SPELL\SpainTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 19, altadmin_nr 2990, city_nr 8104, citypart_nr 38242, areacode_nr 58980, street_nr 1131737 
+empty_citypart_nr 11210, empty_city_nr 0, empty_areacode_nr 10871, empty_altadmin_nr 74 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_3784\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_3784\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_3784\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4025\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4025\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4025\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 8568, citypart_nr 100297, areacode_nr 91678, street_nr 252451 
+empty_citypart_nr 37789, empty_city_nr 0, empty_areacode_nr 62172, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4092\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1809, city_nr 6440, citypart_nr 98033, areacode_nr 86129, street_nr 241828 
+empty_citypart_nr 38601, empty_city_nr 0, empty_areacode_nr 58246, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4092\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1809, city_nr 6440, citypart_nr 98033, areacode_nr 86129, street_nr 241828 
+empty_citypart_nr 38601, empty_city_nr 0, empty_areacode_nr 58246, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4092\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1809, city_nr 6440, citypart_nr 98033, areacode_nr 86129, street_nr 241828 
+empty_citypart_nr 38601, empty_city_nr 0, empty_areacode_nr 58246, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4101\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 4876, citypart_nr 7217, areacode_nr 29506, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 10, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4101\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 4876, citypart_nr 7217, areacode_nr 29506, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 10, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4101\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 4876, citypart_nr 7217, areacode_nr 29506, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 10, empty_areacode_nr 0, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4102\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 6472, citypart_nr 94731, areacode_nr 84659, street_nr 244550 
+empty_citypart_nr 36898, empty_city_nr 0, empty_areacode_nr 56347, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4102\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 6472, citypart_nr 94731, areacode_nr 84659, street_nr 244550 
+empty_citypart_nr 36898, empty_city_nr 0, empty_areacode_nr 56347, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4102\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1867, city_nr 6472, citypart_nr 94731, areacode_nr 84659, street_nr 244550 
+empty_citypart_nr 36898, empty_city_nr 0, empty_areacode_nr 56347, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4103\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1718, city_nr 8568, citypart_nr 7217, areacode_nr 36113, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 4, empty_areacode_nr 6758, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4103\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1718, city_nr 8568, citypart_nr 7217, areacode_nr 36113, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 4, empty_areacode_nr 6758, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4103\audi_rmc_targetARM_MS5_autom_creation_PSF50V471V3_TE_Russia_2016_03\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1718, city_nr 8568, citypart_nr 7217, areacode_nr 36113, street_nr 252451 
+empty_citypart_nr 0, empty_city_nr 4, empty_areacode_nr 6758, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4105\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1602, city_nr 8568, citypart_nr 87642, areacode_nr 78832, street_nr 248995 
+empty_citypart_nr 37362, empty_city_nr 1, empty_areacode_nr 50541, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4105\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1602, city_nr 8568, citypart_nr 87642, areacode_nr 78832, street_nr 248995 
+empty_citypart_nr 37362, empty_city_nr 1, empty_areacode_nr 50541, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4105\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1602, city_nr 8568, citypart_nr 87642, areacode_nr 78832, street_nr 248995 
+empty_citypart_nr 37362, empty_city_nr 1, empty_areacode_nr 50541, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4106\Europe\RussiaTSD\input\TELEATLAS\navi\2016_03_PSF50V471V3\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1551, city_nr 4543, citypart_nr 67351, areacode_nr 54961, street_nr 213950 
+empty_citypart_nr 36363, empty_city_nr 1, empty_areacode_nr 29666, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4106\Europe\RussiaTSD\VDE\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1551, city_nr 4543, citypart_nr 67351, areacode_nr 54961, street_nr 213950 
+empty_citypart_nr 36363, empty_city_nr 1, empty_areacode_nr 29666, empty_altadmin_nr 0 
+
+Generating statistics for RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml in d:\Work\STF_Testing\Inter\XMLs
+
+For d:\Work\STF_Testing\Inter\XMLs\audi_rmc_Russia_2016_03_4106\Europe\RussiaTSD\VDE_SPELL\RussiaTSD_TELEATLAS_2016_03_PSF50V471V3.xml found:
+states_nr 8, altadmin_nr 1551, city_nr 4543, citypart_nr 67351, areacode_nr 54961, street_nr 213950 
+empty_citypart_nr 36363, empty_city_nr 1, empty_areacode_nr 29666, empty_altadmin_nr 0 
+
+################### DONE #########################
